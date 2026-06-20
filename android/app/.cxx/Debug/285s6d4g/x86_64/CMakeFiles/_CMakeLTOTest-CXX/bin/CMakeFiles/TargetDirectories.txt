@@ -1,0 +1,4 @@
+/media/bikice/Samsung 980 Pro/junie/media-feed/android/app/.cxx/Debug/285s6d4g/x86_64/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/foo.dir
+/media/bikice/Samsung 980 Pro/junie/media-feed/android/app/.cxx/Debug/285s6d4g/x86_64/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/boo.dir
+/media/bikice/Samsung 980 Pro/junie/media-feed/android/app/.cxx/Debug/285s6d4g/x86_64/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/edit_cache.dir
+/media/bikice/Samsung 980 Pro/junie/media-feed/android/app/.cxx/Debug/285s6d4g/x86_64/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/rebuild_cache.dir

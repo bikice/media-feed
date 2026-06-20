@@ -1,0 +1,17 @@
+# ninja log v5
+25	8059	1782064209721219968	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/home/developer/PhpstormProjects/media-feed/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/safeareacontext-generated.cpp.o	16dce35032e845e0
+12	9599	1782064211276218418	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/home/developer/PhpstormProjects/media-feed/node_modules/react-native-safe-area-context/common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewState.cpp.o	ce625e0ab90724f2
+11	10481	1782064212146217551	CMakeFiles/appmodules.dir/home/developer/PhpstormProjects/media-feed/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	2f606b2fa2d585c8
+14	6352	1782064208037221648	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/home/developer/PhpstormProjects/media-feed/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/EventEmitters.cpp.o	a02cec5698753785
+11447	11502	1782064213210216492	/home/developer/PhpstormProjects/media-feed/android/app/build/intermediates/cxx/Debug/106q4mx3/obj/x86_64/libreact_codegen_safeareacontext.so	8153e7ffe43d6997
+15	193	1782065174038466482	build.ninja	29efa1548f570be0
+13	10665	1782064212327217371	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/home/developer/PhpstormProjects/media-feed/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/ComponentDescriptors.cpp.o	873a27add60eb3b
+23	5189	1782064206877222807	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/home/developer/PhpstormProjects/media-feed/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/States.cpp.o	57e7ba02af2e2033
+12	8854	1782064210526219165	CMakeFiles/appmodules.dir/OnLoad.cpp.o	e4b964429b065a67
+18	8526	1782064210210219480	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/home/developer/PhpstormProjects/media-feed/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/ShadowNodes.cpp.o	ef63ecbc62b071a2
+17	9630	1782064211293218401	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/home/developer/PhpstormProjects/media-feed/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/Props.cpp.o	dfa926ea7780c00a
+0	5	0	/home/developer/PhpstormProjects/media-feed/android/app/.cxx/Debug/106q4mx3/x86_64/CMakeFiles/cmake.verify_globs	554afcf42e97d577
+12	11447	1782064213123216579	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/home/developer/PhpstormProjects/media-feed/node_modules/react-native-safe-area-context/common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewShadowNode.cpp.o	a4e06fe1a5c40356
+11503	11544	1782064213251216452	/home/developer/PhpstormProjects/media-feed/android/app/build/intermediates/cxx/Debug/106q4mx3/obj/x86_64/libappmodules.so	576b8542a27e9c04
+0	4	0	/home/developer/PhpstormProjects/media-feed/android/app/.cxx/Debug/106q4mx3/x86_64/CMakeFiles/cmake.verify_globs	554afcf42e97d577
+1	14	0	/home/developer/PhpstormProjects/media-feed/android/app/.cxx/Debug/106q4mx3/x86_64/CMakeFiles/cmake.verify_globs	554afcf42e97d577

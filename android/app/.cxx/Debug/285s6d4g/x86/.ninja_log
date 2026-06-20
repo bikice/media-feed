@@ -1,0 +1,23 @@
+# ninja log v5
+0	3	0	/media/bikice/Samsung 980 Pro/junie/media-feed/android/app/.cxx/Debug/285s6d4g/x86/CMakeFiles/cmake.verify_globs	e8cd5c0a779a9237
+1	1457	1782110944444678845	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/media/bikice/Samsung_980_Pro/junie/media-feed/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/EventEmitters.cpp.o	ace0dfa8e0fc2a8b
+2	1620	1782110944611677634	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/media/bikice/Samsung_980_Pro/junie/media-feed/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/States.cpp.o	9d6560e056992fec
+1	2137	1782110945118673961	CMakeFiles/appmodules.dir/OnLoad.cpp.o	7d3ec90a60172b62
+2	2188	1782110945173673564	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/media/bikice/Samsung_980_Pro/junie/media-feed/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/safeareacontext-generated.cpp.o	4a74d0b026d2c77e
+1	2410	1782110945391671989	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/media/bikice/Samsung_980_Pro/junie/media-feed/node_modules/react-native-safe-area-context/common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewState.cpp.o	ce48a72f80e9bd18
+2	2484	1782110945468389533	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/media/bikice/Samsung_980_Pro/junie/media-feed/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/ShadowNodes.cpp.o	a486982c0655cc21
+2	2663	1782110945642670175	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/media/bikice/Samsung_980_Pro/junie/media-feed/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/Props.cpp.o	ddc6b21bbd544bdd
+1	3484	1782110946456664303	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/media/bikice/Samsung_980_Pro/junie/media-feed/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/ComponentDescriptors.cpp.o	fb5f4d858b018b9b
+1	3514	1782110946484664101	CMakeFiles/appmodules.dir/media/bikice/Samsung_980_Pro/junie/media-feed/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	cc1bf535dbdf8deb
+1	3901	1782110946875661285	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/media/bikice/Samsung_980_Pro/junie/media-feed/node_modules/react-native-safe-area-context/common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewShadowNode.cpp.o	8098c074002608d3
+3901	3947	1782110946942660802	/media/bikice/Samsung 980 Pro/junie/media-feed/android/app/build/intermediates/cxx/Debug/285s6d4g/obj/x86/libreact_codegen_safeareacontext.so	714b8464e051884a
+3947	3978	1782110946973660579	/media/bikice/Samsung 980 Pro/junie/media-feed/android/app/build/intermediates/cxx/Debug/285s6d4g/obj/x86/libappmodules.so	150295f8af67bbf4
+0	3	0	/media/bikice/Samsung 980 Pro/junie/media-feed/android/app/.cxx/Debug/285s6d4g/x86/CMakeFiles/cmake.verify_globs	e8cd5c0a779a9237
+0	3	0	/media/bikice/Samsung 980 Pro/junie/media-feed/android/app/.cxx/Debug/285s6d4g/x86/CMakeFiles/cmake.verify_globs	e8cd5c0a779a9237
+0	4	0	/media/bikice/Samsung 980 Pro/junie/media-feed/android/app/.cxx/Debug/285s6d4g/x86/CMakeFiles/cmake.verify_globs	e8cd5c0a779a9237
+0	3	0	/media/bikice/Samsung 980 Pro/junie/media-feed/android/app/.cxx/Debug/285s6d4g/x86/CMakeFiles/cmake.verify_globs	e8cd5c0a779a9237
+1	4	0	/media/bikice/Samsung 980 Pro/junie/media-feed/android/app/.cxx/Debug/285s6d4g/x86/CMakeFiles/cmake.verify_globs	e8cd5c0a779a9237
+0	4	0	/media/bikice/Samsung 980 Pro/junie/media-feed/android/app/.cxx/Debug/285s6d4g/x86/CMakeFiles/cmake.verify_globs	e8cd5c0a779a9237
+0	3	0	/media/bikice/Samsung 980 Pro/junie/media-feed/android/app/.cxx/Debug/285s6d4g/x86/CMakeFiles/cmake.verify_globs	e8cd5c0a779a9237
+0	4	0	/media/bikice/Samsung 980 Pro/junie/media-feed/android/app/.cxx/Debug/285s6d4g/x86/CMakeFiles/cmake.verify_globs	e8cd5c0a779a9237
+0	3	0	/media/bikice/Samsung 980 Pro/junie/media-feed/android/app/.cxx/Debug/285s6d4g/x86/CMakeFiles/cmake.verify_globs	e8cd5c0a779a9237

@@ -1,0 +1,20 @@
+# ninja log v5
+1	13563	1782026839669344243	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/home/developer/PhpstormProjects/tiktok-feed/node_modules/react-native-safe-area-context/common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewShadowNode.cpp.o	ea7b1af720c26811
+9	10171	1782026836278189050	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/home/developer/PhpstormProjects/tiktok-feed/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/ShadowNodes.cpp.o	33abc393c4886e21
+7592	7785	1782034260101971087	/home/developer/PhpstormProjects/tiktok-feed/android/app/build/intermediates/cxx/Debug/4mr281x1/obj/arm64-v8a/libappmodules.so	6fb130e2561d63f7
+3	12136	1782026838231702413	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/home/developer/PhpstormProjects/tiktok-feed/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/ComponentDescriptors.cpp.o	ce8e2b332a72741d
+1	10110	1782026836214204988	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/home/developer/PhpstormProjects/tiktok-feed/node_modules/react-native-safe-area-context/common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewState.cpp.o	430366c4ce7308ee
+16	35	0	/home/developer/PhpstormProjects/tiktok-feed/android/app/.cxx/Debug/4mr281x1/arm64-v8a/CMakeFiles/cmake.verify_globs	5321158b91013be9
+16	7592	1782034259873970841	CMakeFiles/appmodules.dir/home/developer/PhpstormProjects/tiktok-feed/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	ba7be9cc2fa289c0
+58	803	1782054325031165938	build.ninja	725dedf0609544da
+11	6289	1782026832395156135	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/home/developer/PhpstormProjects/tiktok-feed/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/States.cpp.o	89f9905f8f39efbc
+6	6533	1782026832628098128	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/home/developer/PhpstormProjects/tiktok-feed/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/EventEmitters.cpp.o	850245a4cfe56349
+13564	13646	1782026839790314104	/home/developer/PhpstormProjects/tiktok-feed/android/app/build/intermediates/cxx/Debug/4mr281x1/obj/arm64-v8a/libreact_codegen_safeareacontext.so	d4740c1afbde9766
+15	7657	1782026833774812560	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/home/developer/PhpstormProjects/tiktok-feed/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/safeareacontext-generated.cpp.o	b31614760b0d4862
+17	4572	1782034256879967597	CMakeFiles/appmodules.dir/OnLoad.cpp.o	295bcdfb129e3f2e
+8	11159	1782026837257944993	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/home/developer/PhpstormProjects/tiktok-feed/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/Props.cpp.o	5c968e7b9f3e2ebf
+0	35	0	/home/developer/PhpstormProjects/tiktok-feed/android/app/.cxx/Debug/4mr281x1/arm64-v8a/CMakeFiles/cmake.verify_globs	5321158b91013be9
+98	16591	1782054342277175282	CMakeFiles/appmodules.dir/OnLoad.cpp.o	295bcdfb129e3f2e
+97	23593	1782054349247179060	CMakeFiles/appmodules.dir/home/developer/PhpstormProjects/tiktok-feed/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	ba7be9cc2fa289c0
+23594	23975	1782054349705179309	/home/developer/PhpstormProjects/tiktok-feed/android/app/build/intermediates/cxx/Debug/4mr281x1/obj/arm64-v8a/libappmodules.so	6fb130e2561d63f7
+0	16	0	/home/developer/PhpstormProjects/tiktok-feed/android/app/.cxx/Debug/4mr281x1/arm64-v8a/CMakeFiles/cmake.verify_globs	5321158b91013be9

@@ -1,0 +1,2 @@
+/media/bikice/Samsung 980 Pro/junie/media-feed/node_modules/react-native-safe-area-context/android/src/main/jni/CMakeLists.txt
+/media/bikice/Samsung 980 Pro/junie/media-feed/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt

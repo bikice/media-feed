@@ -1,0 +1,1 @@
+/home/developer/PhpstormProjects/media-feed/android/app/build/intermediates/cxx/Debug/106q4mx3/obj/arm64-v8a
